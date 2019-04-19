@@ -2,6 +2,8 @@ DjangoRestFramework Setup
 =========================
 install python latest stabilized version with pip(>=3.5)
 
+Create mysqldatabasename as piatrikadb
+
 mkdir piatrikadjangorest
 cd piatrikadjangorest
 virtualenv env
